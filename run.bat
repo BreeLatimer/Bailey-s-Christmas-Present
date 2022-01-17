@@ -1,2 +1,2 @@
 cd BaileysPresent
-java -jar testBuild.jar
+java -jar ChooseYourOwnAdventure.jar
